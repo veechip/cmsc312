@@ -1,7 +1,8 @@
 The Shell or Command Line Interpreter is the fundamental User interface to
 an Operating System. Your first project is to write a simple shell - myshell -
 that has the following properties:
-1. The shell must support the following internal commands:
+
+#1. The shell must support the following internal commands:
 i. cd <directory> - Change the current default directory to
 <directory>. If the <directory> argument is not present, report
 the current directory. If the directory does not exist an appropriate
